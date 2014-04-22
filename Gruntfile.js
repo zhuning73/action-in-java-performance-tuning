@@ -22,8 +22,7 @@ module.exports = function (grunt) {
             src: ['**']
         },
         'clean': {
-            files: '_book',
-			force: true
+            files: '_book'
         },
         'http-server': {
             'dev': {
