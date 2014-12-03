@@ -1,10 +1,10 @@
 {
-    "name": "Java-Performance-Tuning",
+    "name": "Action-In-Java-Performance-Tuning",
     "version": "0.0.1",
     "description": "the Java Performance Tuning book",
     "repository": {
         "type": "git",
-        "url": "https://github.com/skyao/java-performance-tuning"
+        "url": "https://github.com/skyao/action-in-java-performance-tuning"
     },
     "author": "Sky Ao <aoxiaojian@gmail.com>",
     "license": "Apache 2",

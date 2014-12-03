@@ -10,9 +10,9 @@ module.exports = function (grunt) {
         'gitbook': {
             development: {
                 input: "./",
-                title: "Java Performance Tuning",
+                title: "Action In Java Performance Tuning",
                 description: "The Java Performance Tuning book.",
-                github: "skyao/java-performance-tuning"
+                github: "skyao/action-in-java-performance-tuning"
             }
         },
         'gh-pages': {
